@@ -3,3 +3,16 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
 }
+
+li {
+    list-style: none;
+}
+
+.btn-2 {
+    margin-left: 20px;
+}
+
+.visited-flags-container img {
+    width: 100px;
+    margin-right: 10px;
+}
